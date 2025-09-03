@@ -1,0 +1,11 @@
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\bin\Debug\codecademyWinForm.exe.config
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\bin\Debug\codecademyWinForm.exe
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\bin\Debug\codecademyWinForm.pdb
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.csproj.AssemblyReference.cache
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.Form1.resources
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.Properties.Resources.resources
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.csproj.GenerateResource.cache
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.csproj.CoreCompileInputs.cache
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.exe
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.pdb
+D:\UBP\6 PGE\entregas\tarea5\codecademyWinForm\codecademyWinForm\obj\Debug\codecademyWinForm.Form2.resources
