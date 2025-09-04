@@ -31,7 +31,6 @@ namespace codecademyWinForm
             var c5 = new Course(); c5.setName("Advanced Data Structures in C++"); c5.setDifficulty(3); c5.setDescription("Trees, graphs, and performance trade-offs."); cursos.Add(c5);
             var c6 = new Course(); c6.setName("Web APIs with FastAPI"); c6.setDifficulty(2); c6.setDescription("FastAPI endpoints, Pydantic models, and auth."); cursos.Add(c6);
 
-            listBox1.DataSource = cursos;
             applyfilters(cursos);
         }
 
